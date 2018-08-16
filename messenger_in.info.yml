@@ -1,0 +1,7 @@
+name: 'Messenger-IN'
+type: module
+description: 'Fixes translation problems with static interface language.'
+package: interiete
+core: 8.x
+dependencies:
+ - system (>=8.5)
